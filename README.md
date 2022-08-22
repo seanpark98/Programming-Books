@@ -1,2 +1,2 @@
 # Programming-Books
-Repository for self studying programming books
+Repository for self-study on programming books
